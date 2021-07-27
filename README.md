@@ -4,3 +4,5 @@ Software Engineering group project using UML
 ## contributors 
 
 Silvester Stephens
+
+Anirudh Rayapeddi
