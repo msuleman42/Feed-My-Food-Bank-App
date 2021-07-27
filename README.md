@@ -4,6 +4,7 @@ The Feed My Food Bank app has been designed to provide much needed assistance to
 ## Files in Repositories
 
 Group 26 - Feed My Food Bank Report.pdf: Report for the project displaying the UML process and prototype of the app.
+
 Group 26 - Feed My Food Bank.mp4: Video demonstrating the purpose and functionalities the app would have.
 
 ## Contributors 
