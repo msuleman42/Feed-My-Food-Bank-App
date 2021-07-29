@@ -9,9 +9,9 @@ Group 26 - Feed My Food Bank.mp4: Video demonstrating the purpose and functional
 
 ## Contributors 
 
-Silvester Stephens (https://github.com/1silvester)
-
 Anirudh Rayapeddi (https://github.com/70xH)
+
+Silvester Stephens (https://github.com/1silvester)
 
 Munir Suleman (https://github.com/msuleman42)
 
