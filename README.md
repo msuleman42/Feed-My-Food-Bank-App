@@ -29,4 +29,5 @@ Khalil Greenidge
 
 Jan Gryga
 
+## Demonstration of one use case
 ![](https://github.com/msuleman42/Feed-My-Food-Bank-App/blob/main/Kapture%202021-09-30%20at%2020.48.36.gif)
