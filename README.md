@@ -18,7 +18,7 @@ Silvester Stephens (https://github.com/1silvester)
 
 Munir Suleman (https://github.com/msuleman42)
 
-Sarina Saqib 
+Sarina Saqib (https://github.com/sarinasaqib)
 
 Amber Qureshi 
 
